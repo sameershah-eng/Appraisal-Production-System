@@ -1,0 +1,6 @@
+{
+  "name": "Provenance",
+  "description": "Controlled appraisal production system for commercial real estate appraisal firms with verifiable evidence pipelines, formula integrity, and audit trails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
